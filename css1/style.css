@@ -1,0 +1,98 @@
+body {
+  margin: 0px;
+  text-align: center;
+font-family: 'Montserrat', sans-serif;
+
+}
+.underline {
+  text-decoration: underline;
+}
+h1{
+  font-size: 5.625rem;
+  margin-top: 50px;
+  margin-bottom: 0px;
+font-family: 'Dancing Script', cursive;
+color:  #66BFBF;
+}
+h2 {
+  font-weight: normal;
+font-size: 2.0rem;
+font-family: 'Montserrat', sans-serif;
+ color:  #66BFBF;
+}
+h3 {
+font-family: 'Montserrat', sans-serif;
+color:  #11999E;
+}
+p{
+  line-height: 2;
+  color: #40514E;
+
+}
+
+a {
+  color: #11999E;
+  margin: 10px;
+  text-decoration: none;
+}
+a:hover{
+  color: white;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+.first{
+  background-color: #cbeaed;
+ position: relative;
+ padding-top: 100px;
+}
+.second{
+margin: 100px auto;
+}
+.third{
+background-color: #6ebfb5;
+padding: 50px 0 20px;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top:50px
+}
+.footer-link {
+  color:  #11999E;
+}
+
+.skill-row {
+  margin: 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
+.Skills-img {
+  width: 25%;
+  height:25%;
+  float:left;
+}
+.computer-img {
+width: 25%;
+float: right;
+}
+.hey{
+  color: #EAF6F6;
+
+}
+
+.btn {
+  background-color: #66BFBF;
+  padding: 5px;
+}
